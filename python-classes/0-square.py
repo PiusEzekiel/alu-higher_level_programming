@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-#this code writes an empty class Square that defines a square
-
+#this is a block comment
 """Define a class Square.
 """
 
